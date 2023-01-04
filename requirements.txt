@@ -18,4 +18,5 @@ matplotlib
 seaborn
 numpy
 pandas
+apache airflow
 -e .
