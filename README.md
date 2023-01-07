@@ -20,7 +20,7 @@ python main.py
 To download your dataset
 
 ```
-wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+wget https://raw.githubusercontent.com/herbert0419/Insurance-Premium-Prediction/main/insurance.csv
 ```
 
 This is changes made in neuro lab
@@ -102,6 +102,13 @@ BUCKET_NAME=
 MONGO_DB_URL=
 ```
 
+
+```
+Command to re-run the ec2 instance:
+
+cd actions-runner/
+./run.sh
+```
 
 ```
 GitHub Setting:
