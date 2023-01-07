@@ -8,8 +8,8 @@ artifact
 prediction
 saved_models
 demotest.py
-logs
-artifacts
+# logs
+# artifacts
 raw_data
 # Distribution / packaging
 .Python
@@ -107,7 +107,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+# .env
 .venv
 env/
 venv/
