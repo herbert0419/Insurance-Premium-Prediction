@@ -1,1 +1,10 @@
 https://github.com/herbert0419/Insurance-Premium-Prediction.git
+ec2-35-154-247-246.ap-south-1.compute.amazonaws.com:8080
+
+1. Airflow (admin login)
+2. Need to create flask app or airflow api is fine
+3. Small doubt related to documentation
+4. Project Name : Individual or Group Name
+5. Wireframe to be made or not
+
+curl -k --proxy http://hostname:port -m 5 -s -o /dev/null -w "%{http_code}" https://ssm.RegionID.amazonaws.com
