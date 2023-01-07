@@ -1,3 +1,9 @@
+
+### Google Drive link to access the Project Docs:
+```
+https://drive.google.com/drive/folders/1j_PokTgxoXUaoNhgMwh5tcASlzn8mkLr?usp=share_link
+```
+
 ### Step 1 - Install the requirements
 
 ```bash
