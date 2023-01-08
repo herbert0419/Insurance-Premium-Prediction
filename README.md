@@ -1,3 +1,9 @@
+
+### Google Drive link to access the Project Docs:
+```
+https://drive.google.com/drive/folders/1j_PokTgxoXUaoNhgMwh5tcASlzn8mkLr?usp=share_link
+```
+
 ### Step 1 - Install the requirements
 
 ```bash
@@ -14,7 +20,7 @@ python main.py
 To download your dataset
 
 ```
-wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+wget https://raw.githubusercontent.com/herbert0419/Insurance-Premium-Prediction/main/insurance.csv
 ```
 
 This is changes made in neuro lab
@@ -94,4 +100,36 @@ AWS_ECR_LOGIN_URI=
 ECR_REPOSITORY_NAME=
 BUCKET_NAME=
 MONGO_DB_URL=
+```
+
+
+```
+Command to re-run the ec2 instance:
+
+cd actions-runner/
+./run.sh
+```
+
+```
+GitHub Setting:
+
+* Add Runner
+* Add all the keys in the secret section
+
+
+Add Runner into EC2:
+
+√ Connected to GitHub
+
+# Runner Registration
+
+Enter the name of the runner group to add this runner to: [press Enter for Default] 
+
+Enter the name of runner: [press Enter for ip-172-31-32-83] self-hosted
+
+This runner will have the following labels: 'self-hosted', 'Linux', 'X64' 
+Enter any additional labels (ex. label-1,label-2): [press Enter to skip] 
+
+√ Runner successfully added
+√ Runner connection is good
 ```
