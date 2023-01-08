@@ -2,13 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-artifact
+# artifact
 # C extensions
 *.so
 prediction
 saved_models
 demotest.py
-# logs
+logs
 # artifacts
 raw_data
 # Distribution / packaging
