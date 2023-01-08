@@ -27,7 +27,7 @@ Collecting data from various sources: This may include scraping data from websit
 
 Cleaning the data: This involves removing any invalid or missing data, correcting errors, and ensuring that the data is in a consistent format.
 
-	Normalizing or scaling the data: This involves transforming the data so that it is on the same scale, which can help improve the performance of some machine learning algorithms.
+Normalizing or scaling the data: This involves transforming the data so that it is on the same scale, which can help improve the performance of some machine learning algorithms.
 
 Splitting the data into training and test sets: This involves dividing the data into two sets, one for training the model and the other for evaluating its performance.
 
